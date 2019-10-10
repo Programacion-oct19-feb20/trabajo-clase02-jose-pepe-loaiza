@@ -1,0 +1,15 @@
+Introduccion a la programacion
+
+Algoritmo: Es un conjunto de pasos finitos para dar solucion a un problema.
+
+Programa: Es un conjunto de instrucciones u ordenes basadas en un lenguaje de programacion.
+
+Java ( compilado): en este programa se utiliza el punto y como y las llaves.
+
+Python: se utiliza los dos puntos.
+
+Cada lenguaje de programacion tiene sus palabras reservadas.
+
+desarrollo de aplicaciones:
+
+Analisis, diseño, codificacion, implementacion.
